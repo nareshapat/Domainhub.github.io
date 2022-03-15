@@ -1,4 +1,6 @@
-Rules:
+#VAYUZ Assignment for Frontend Designe
+
+#Rules:
 
 1. Please use bootstrap( or any css framework )
 
