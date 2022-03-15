@@ -1,0 +1,12 @@
+{
+  "name": "domain hub",
+  "icons": [
+    {
+      "src": "/assets/img/image-host.png",
+      "type": "image/png",
+      "sizes": "552x520"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "fullscreen"
+}
