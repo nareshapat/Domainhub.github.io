@@ -1,4 +1,4 @@
-#VAYUZ Assignment for Frontend Designe
+#VAYUZ Assignment for Frontend Designer
 
 #Rules:
 
