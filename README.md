@@ -1,15 +1,15 @@
 # VAYUZ-Assignment-for-Frontend-Designer Task
 
 VAYUZ Assignment for Frontend Designer
-Rules:
+#Rules:
 1. Please use bootstrap( or any css framework )
-Home Page
+#Home Page
 1.1. Header
 1.1.1. Logo
 1.1.2. Sign up link
 1.2. Banner
-Heading: Thanks for your subscription
-SubHeading: Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit
+#Heading: Thanks for your subscription
+#SubHeading: Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit
 amet luctus venenatis.
 Image
 1.3. About
