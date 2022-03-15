@@ -1,5 +1,7 @@
 #VAYUZ Assignment for Frontend Designer
 
+# live Preview: https://nareshapat.github.io/Domainhub.github.io/
+
 #Rules:
 
 1. Please use bootstrap( or any css framework )
